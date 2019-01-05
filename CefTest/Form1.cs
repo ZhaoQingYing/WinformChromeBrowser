@@ -46,7 +46,7 @@ namespace CefTest
             browser.MenuHandler = new MenuHandler();
             
 
-            var eventObject = new AmazonEventBoundObject();
+            var eventObject = new AmazonEventBindingObject();
             eventObject.ABName = "你的账号";
             eventObject.ABPassword = "你的密码";
             eventObject.EventArrived += OnJavascriptEventArrived;

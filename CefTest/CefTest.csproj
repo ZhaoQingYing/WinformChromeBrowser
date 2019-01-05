@@ -122,7 +122,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AmazonEventBoundObject.cs" />
+    <Compile Include="AmazonEventBindingObject.cs" />
     <Compile Include="ChromeCookieReader.cs" />
     <Compile Include="CookieVisitor.cs" />
     <Compile Include="Form1.cs">

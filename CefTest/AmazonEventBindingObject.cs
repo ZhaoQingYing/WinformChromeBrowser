@@ -8,7 +8,7 @@ namespace CefTest
     /// <summary>
     /// 亚马逊登录绑定对象
     /// </summary>
-    public class AmazonEventBoundObject
+    public class AmazonEventBindingObject
     {
         public string ABName{ get; set; }
 
